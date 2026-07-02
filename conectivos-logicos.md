@@ -18,7 +18,6 @@ A lógica booleana é usada para tomar decisões dentro dos códigos. Por exempl
 A forma como combinamos proposições é o que nos permite criar condições mais complexas para guiar o fluxo dos programas.
 
 ---
-
 ## O que é uma proposição? 🤔
 
 Uma proposição é uma sentença declarativa que pode ser classificada como verdadeira ou falsa.
