@@ -6,7 +6,8 @@ A Lógica Booleana foi desenvolvida pelo matemático George Boole e é um dos pi
 
 Em computação, isso significa que tudo pode ser reduzido a dois estados:
 
-![Verdadeiro ou Falso](assets/VF.png)
+- **1** = Verdadeiro
+- **0** = Falso
 
 A lógica booleana é usada para tomar decisões dentro dos códigos. Por exemplo:
 
