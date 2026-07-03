@@ -1,0 +1,14 @@
+tower_of_hanoi.py
+  h_927f72cf654be5 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "12813c237aaaa8927eaaa25491de391a73056bd2",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
