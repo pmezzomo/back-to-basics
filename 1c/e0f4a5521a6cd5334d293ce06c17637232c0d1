@@ -1,0 +1,14 @@
+madlib.py
+  h_927f72cf654be5 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1ce0f4a5521a6cd5334d293ce06c17637232c0d1",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
