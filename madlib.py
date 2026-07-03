@@ -1,4 +1,4 @@
-print('Boas vindas ao nosso glorioso jogo de MADLIB')
+print('Boas vindas ao nosso jogo de MADLIB')
 
 substantivo = input('Diga um nome: ')
 adjetivo = input('Diga um adjetivo: ')
