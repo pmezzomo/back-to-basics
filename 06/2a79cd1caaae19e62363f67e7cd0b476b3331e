@@ -1,0 +1,14 @@
+stack.py
+  h_927f72cf654be5 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "062a79cd1caaae19e62363f67e7cd0b476b3331e",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
