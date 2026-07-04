@@ -1,0 +1,16 @@
+sapo_lagoa.py
+  h_927f72cf654be5 1-15
+tarefas.py
+  h_927f72cf654be5 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "7931742c6a30352c02ecc0412af8e07de12d8dab",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
