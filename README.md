@@ -19,6 +19,19 @@ Small Python exercises and notes built during the [Rocketseat](https://www.rocke
 | [heap.py](./heap.py) | Heap data structure |
 | [hash.py](./hash.py) | Hash table data structure |
 
+## Exercises (exercises/)
+
+| File | Description |
+|---|---|
+| [guess_the_number.py](./exercises/guess_the_number.py) | Magic trick — guess a random number |
+| [guess_the_color.py](./exercises/guess_the_color.py) | Magic trick — guess a random color |
+| [secret_number.py](./exercises/secret_number.py) | Guess the fixed secret number |
+| [mad_libs.py](./exercises/mad_libs.py) | Funny story with user input |
+| [programmer_badge.py](./exercises/programmer_badge.py) | Generate a dev event badge |
+| [general_questions.py](./exercises/general_questions.py) | Q&A quiz with scoring |
+| [python_oracle.py](./exercises/python_oracle.py) | Programming topic assistant |
+| [space_treasure_hunt.py](./exercises/space_treasure_hunt.py) | Find the treasure on a 3x3 map |
+
 ## Notes
 
 | File | Description |
