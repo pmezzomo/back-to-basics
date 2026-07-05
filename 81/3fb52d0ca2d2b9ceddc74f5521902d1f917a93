@@ -1,0 +1,24 @@
+exercises/madlib.py
+  h_927f72cf654be5 1-18
+exercises/programmer_badge.py
+  h_927f72cf654be5 1-22
+exercises/general_questions.py
+  h_927f72cf654be5 1-10
+exercises/guess_the_number.py
+  h_927f72cf654be5 1-15
+exercises/guess_the_color.py
+  h_927f72cf654be5 1-16
+exercises/secret_number.py
+  h_927f72cf654be5 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "813fb52d0ca2d2b9ceddc74f5521902d1f917a93",
+  "prompts": {},
+  "humans": {
+    "h_927f72cf654be5": {
+      "author": "Paula Mezzomo <p.mzzo@hotmail.com>"
+    }
+  }
+}
